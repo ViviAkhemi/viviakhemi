@@ -1,8 +1,8 @@
 <h1>Olá! Eu sou a Viviane 👋</h1> 
 
-🌱 Atualmente estudo JavaScript no projeto ONE Alura <br>
-👯 Procuro colaborar com minhas colegas da MCIO Brasil <br>
-🤔 Procuro ajuda com dicas de como simplificar a vida e os códigos <br>
+🌱 Sou uma eterna estudante, agora estudo BackEnd no projeto ONE Alura <br>
+👯 Coloco-me à disposição de ajudar <br>
+🤔 Procuro dar dicas de como simplificar a vida e os códigos <br>
 💬 Pergunte-me sobre filosofar e meditar <br>
 😼 Instagram do Dog @rexalfredo.ii<br>
 
