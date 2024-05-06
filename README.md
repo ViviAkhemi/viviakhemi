@@ -3,7 +3,7 @@
 🌱 Sou uma eterna estudante, agora estudo BackEnd no projeto ONE Alura <br>
 👯 Coloco-me à disposição de ajudar <br>
 🤔 Procuro simplificar a vida e os códigos <br>
-💬 Pergunte-me sobre filosofar e meditar <br>
+💬 Vamos conversar sobre filosofar e meditar <br>
 😼 Instagram do Dog @rexalfredo.ii<br>
 
 <p>
