@@ -1,6 +1,7 @@
 <h1>Olá! Eu sou a Viviane 👋</h1> 
 
-🌱 Sou uma eterna estudante, agora estudo BackEnd no projeto ONE Alura <br>
+🌱 Sou uma eterna estudante, agora estudo MBA em Engenharia de Software e MBA em Segurança da Informação
+    estudei BackEnd no projeto ONE Alura <br>
 👯 Coloco-me à disposição de ajudar <br>
 🤔 Procuro simplificar a vida e os códigos <br>
 💬 Vamos conversar sobre filosofar e meditar <br>
